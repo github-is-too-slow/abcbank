@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="6" by="lint 7.1.3" type="baseline" client="gradle" dependencies="false" name="AGP (7.1.3)" variant="fatal" version="7.1.3">
+
+    <issue
+        id="DuplicateIds"
+        message="Duplicate id `@+id/farmer_sign_image`, already defined earlier in this layout"
+        errorLine1="                                android:id=&quot;@+id/farmer_sign_image&quot;"
+        errorLine2="                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/layout/activity_farmer.xml"
+            line="114"
+            column="33"/>
+        <location
+            file="src/main/res/layout/activity_farmer.xml"
+            line="66"
+            column="33"
+            message="Duplicate id `@+id/farmer_sign_image` originally defined here"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        message="Duplicate id `@+id/farmer_sign_text`, already defined earlier in this layout"
+        errorLine1="                                android:id=&quot;@+id/farmer_sign_text&quot;"
+        errorLine2="                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/layout/activity_farmer.xml"
+            line="119"
+            column="33"/>
+        <location
+            file="src/main/res/layout/activity_farmer.xml"
+            line="71"
+            column="33"
+            message="Duplicate id `@+id/farmer_sign_text` originally defined here"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        message="Duplicate id `@+id/farmer_sale4`, already defined earlier in this layout"
+        errorLine1="                        android:id=&quot;@+id/farmer_sale4&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/layout/farmer_content.xml"
+            line="527"
+            column="25"/>
+        <location
+            file="src/main/res/layout/farmer_content.xml"
+            line="410"
+            column="25"
+            message="Duplicate id `@+id/farmer_sale4` originally defined here"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        message="Duplicate id `@+id/farmer_sale1`, already defined earlier in this layout"
+        errorLine1="                        android:id=&quot;@+id/farmer_sale1&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/layout/farmer_content.xml"
+            line="842"
+            column="25"/>
+        <location
+            file="src/main/res/layout/farmer_content.xml"
+            line="326"
+            column="25"
+            message="Duplicate id `@+id/farmer_sale1` originally defined here"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        message="Duplicate id `@+id/farmer_sale1`, already defined earlier in this layout"
+        errorLine1="                        android:id=&quot;@+id/farmer_sale1&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/layout/farmer_content.xml"
+            line="869"
+            column="25"/>
+        <location
+            file="src/main/res/layout/farmer_content.xml"
+            line="326"
+            column="25"
+            message="Duplicate id `@+id/farmer_sale1` originally defined here"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        message="Duplicate id `@+id/farmer_sale1`, already defined earlier in this layout"
+        errorLine1="                        android:id=&quot;@+id/farmer_sale1&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/layout/farmer_content.xml"
+            line="902"
+            column="25"/>
+        <location
+            file="src/main/res/layout/farmer_content.xml"
+            line="326"
+            column="25"
+            message="Duplicate id `@+id/farmer_sale1` originally defined here"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        message="Duplicate id `@+id/farmer_sale1`, already defined earlier in this layout"
+        errorLine1="                        android:id=&quot;@+id/farmer_sale1&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/layout/farmer_content.xml"
+            line="929"
+            column="25"/>
+        <location
+            file="src/main/res/layout/farmer_content.xml"
+            line="326"
+            column="25"
+            message="Duplicate id `@+id/farmer_sale1` originally defined here"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        message="Duplicate id `@+id/farmer_sale1`, already defined earlier in this layout"
+        errorLine1="                        android:id=&quot;@+id/farmer_sale1&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/layout/farmer_content.xml"
+            line="962"
+            column="25"/>
+        <location
+            file="src/main/res/layout/farmer_content.xml"
+            line="326"
+            column="25"
+            message="Duplicate id `@+id/farmer_sale1` originally defined here"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        message="Duplicate id `@+id/farmer_sale1`, already defined earlier in this layout"
+        errorLine1="                        android:id=&quot;@+id/farmer_sale1&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/layout/farmer_content.xml"
+            line="989"
+            column="25"/>
+        <location
+            file="src/main/res/layout/farmer_content.xml"
+            line="326"
+            column="25"
+            message="Duplicate id `@+id/farmer_sale1` originally defined here"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        message="Duplicate id `@+id/farmer_sale1`, already defined earlier in this layout"
+        errorLine1="                        android:id=&quot;@+id/farmer_sale1&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/layout/farmer_content.xml"
+            line="1022"
+            column="25"/>
+        <location
+            file="src/main/res/layout/farmer_content.xml"
+            line="326"
+            column="25"
+            message="Duplicate id `@+id/farmer_sale1` originally defined here"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        message="Duplicate id `@+id/farmer_sale1`, already defined earlier in this layout"
+        errorLine1="                        android:id=&quot;@+id/farmer_sale1&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/layout/farmer_content.xml"
+            line="1049"
+            column="25"/>
+        <location
+            file="src/main/res/layout/farmer_content.xml"
+            line="326"
+            column="25"
+            message="Duplicate id `@+id/farmer_sale1` originally defined here"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        message="Duplicate id `@+id/life_goods1`, already defined earlier in this layout"
+        errorLine1="                        android:id=&quot;@+id/life_goods1&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/layout/life_content.xml"
+            line="558"
+            column="25"/>
+        <location
+            file="src/main/res/layout/life_content.xml"
+            line="526"
+            column="25"
+            message="Duplicate id `@+id/life_goods1` originally defined here"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        message="Duplicate id `@+id/life_goods1`, already defined earlier in this layout"
+        errorLine1="                        android:id=&quot;@+id/life_goods1&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/layout/life_content.xml"
+            line="596"
+            column="25"/>
+        <location
+            file="src/main/res/layout/life_content.xml"
+            line="526"
+            column="25"
+            message="Duplicate id `@+id/life_goods1` originally defined here"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        message="Duplicate id `@+id/life_goods1`, already defined earlier in this layout"
+        errorLine1="                        android:id=&quot;@+id/life_goods1&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/layout/life_content.xml"
+            line="628"
+            column="25"/>
+        <location
+            file="src/main/res/layout/life_content.xml"
+            line="526"
+            column="25"
+            message="Duplicate id `@+id/life_goods1` originally defined here"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        message="Duplicate id `@+id/life_goods1`, already defined earlier in this layout"
+        errorLine1="                        android:id=&quot;@+id/life_goods1&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/layout/life_content.xml"
+            line="666"
+            column="25"/>
+        <location
+            file="src/main/res/layout/life_content.xml"
+            line="526"
+            column="25"
+            message="Duplicate id `@+id/life_goods1` originally defined here"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        message="Duplicate id `@+id/life_goods1`, already defined earlier in this layout"
+        errorLine1="                        android:id=&quot;@+id/life_goods1&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/layout/life_content.xml"
+            line="698"
+            column="25"/>
+        <location
+            file="src/main/res/layout/life_content.xml"
+            line="526"
+            column="25"
+            message="Duplicate id `@+id/life_goods1` originally defined here"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        message="Duplicate id `@+id/life_goods1`, already defined earlier in this layout"
+        errorLine1="                        android:id=&quot;@+id/life_goods1&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/layout/life_content.xml"
+            line="736"
+            column="25"/>
+        <location
+            file="src/main/res/layout/life_content.xml"
+            line="526"
+            column="25"
+            message="Duplicate id `@+id/life_goods1` originally defined here"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        message="Duplicate id `@+id/life_goods1`, already defined earlier in this layout"
+        errorLine1="                        android:id=&quot;@+id/life_goods1&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/layout/life_content.xml"
+            line="768"
+            column="25"/>
+        <location
+            file="src/main/res/layout/life_content.xml"
+            line="526"
+            column="25"
+            message="Duplicate id `@+id/life_goods1` originally defined here"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        message="Duplicate id `@+id/life_goods1`, already defined earlier in this layout"
+        errorLine1="                        android:id=&quot;@+id/life_goods1&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/layout/life_content.xml"
+            line="806"
+            column="25"/>
+        <location
+            file="src/main/res/layout/life_content.xml"
+            line="526"
+            column="25"
+            message="Duplicate id `@+id/life_goods1` originally defined here"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        message="Duplicate id `@+id/life_goods1`, already defined earlier in this layout"
+        errorLine1="                        android:id=&quot;@+id/life_goods1&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/layout/life_content.xml"
+            line="838"
+            column="25"/>
+        <location
+            file="src/main/res/layout/life_content.xml"
+            line="526"
+            column="25"
+            message="Duplicate id `@+id/life_goods1` originally defined here"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        message="Duplicate id `@+id/money_credit_time`, already defined earlier in this layout"
+        errorLine1="                    android:id=&quot;@+id/money_credit_time&quot;"
+        errorLine2="                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/layout/my_content.xml"
+            line="192"
+            column="21"/>
+        <location
+            file="src/main/res/layout/my_content.xml"
+            line="178"
+            column="21"
+            message="Duplicate id `@+id/money_credit_time` originally defined here"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        message="Duplicate id `@+id/money_credit_time`, already defined earlier in this layout"
+        errorLine1="                    android:id=&quot;@+id/money_credit_time&quot;"
+        errorLine2="                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/layout/my_content.xml"
+            line="206"
+            column="21"/>
+        <location
+            file="src/main/res/layout/my_content.xml"
+            line="178"
+            column="21"
+            message="Duplicate id `@+id/money_credit_time` originally defined here"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        message="Duplicate id `@+id/money_credit_time`, already defined earlier in this layout"
+        errorLine1="                    android:id=&quot;@+id/money_credit_time&quot;"
+        errorLine2="                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/layout/my_content.xml"
+            line="279"
+            column="21"/>
+        <location
+            file="src/main/res/layout/my_content.xml"
+            line="178"
+            column="21"
+            message="Duplicate id `@+id/money_credit_time` originally defined here"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        message="Duplicate id `@+id/money_credit_time`, already defined earlier in this layout"
+        errorLine1="                    android:id=&quot;@+id/money_credit_time&quot;"
+        errorLine2="                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/layout/my_content.xml"
+            line="300"
+            column="21"/>
+        <location
+            file="src/main/res/layout/my_content.xml"
+            line="178"
+            column="21"
+            message="Duplicate id `@+id/money_credit_time` originally defined here"/>
+    </issue>
+
+</issues>
